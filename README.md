@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Mehmet Tarik Atici 👋
 
 ## 🎓 About Me
 
@@ -59,12 +59,12 @@ Currently diving deep into **Cloud Computing**, **Artificial Intelligence**, and
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/tarık-atıcı-424244262
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)=>www.linkedin.com/in/tarık-atıcı-424244262
 
-)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tarikatici97@hotmail.com
 
-)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)=>mailto:tarikatici97@hotmail.com
+
+
 
 ## 📊 GitHub Stats
 
